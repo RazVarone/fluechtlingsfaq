@@ -1,3 +1,5 @@
+Lizenz für die Flüchtlings-FAQ
+
 CC0 1.0 Universal
 =================
 
