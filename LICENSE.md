@@ -3,6 +3,10 @@ Lizenz für die Flüchtlings-FAQ
 CC0 1.0 Universal
 =================
 
+Diese Webseite steht unter der
+[Creative Commons Zero 1.0-Lizenz](https://creativecommons.org/publicdomain/zero/1.0/deed.de).
+Der detailierte Lizenztext wird in der Folge beschrieben.
+
 Statement of Purpose
 --------------------
 
