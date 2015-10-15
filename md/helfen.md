@@ -9,10 +9,14 @@ Darunter darf man sich dann verschiedene Hilfsleistungen vorstellen, welche erbr
  * Ansprechpartner
  * Übersetzer/Dolmetscher
  * Koch
+ * u.v.m.
 
 Was speziell in deiner Gemeinde gebraucht wird, sagen dir sicher die lokalen Ansprechpartner, wenn du sie gefunden hast. Ein weiterer Weg ist natürlich, zu einer Flüchtlingsunterkunft zu gehen und zu fragen, was man tun kann um zu helfen.
 
-Die Seite <http://wie-kann-ich-helfen.info/> versucht zudem, Leuten einen einfachen Weg zum Ansprechpartner zu bieten, damit sich jeder so einbringen kann wie er das gerne möchte.
+Die Seite [Wie kann ich helfen?](http://wie-kann-ich-helfen.info/) versucht zudem, Leuten einen einfachen Weg zum Ansprechpartner zu bieten, damit sich jeder so einbringen kann wie er das gerne möchte.
+
+Organisationen für die Interessen von Flüchtlingen
+--------------------------------------------------
 
 Weiterhin gibt es einige Organisationen, welche sich für das Wohl von Flüchtlingen einsetzen und gerne Spenden annehmen:
 
