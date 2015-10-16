@@ -33,6 +33,17 @@ Die Hauptfluchtursache in Nigeria besteht [im andauernden Konflikt zwischen dem 
 
 Als Folge daraus finden in weiten Teilen des Landes immer wieder Terroranschläge statt. In den selbsterklärten extremistischen Regionen werden rechtsstaatliche Prinzipien ignoriert; es kommt vermehrt zur Vollstreckung von Folter und Todesstrafe.
 
+Afghanistan
+-----------
+
+Der Süden Afghanistans [ist leider seit 2008 wieder stärker umkämpft als zuvor](https://de.wikipedia.org/wiki/Krieg_in_Afghanistan_seit_2001). Dies ist eine Folge der Unzufriedenheit der Bevölkerung mit dem langsamen Wiederaufbau des durch viele Kriege zermürbten Landes. Zudem werden die Taliban, welche nun wieder Zulauf erhalten, vom benachbarten Pakistan finanziell, strukturell und mit Waffen unterstützt.
+
+Die eigentliche Regierung Afghanistans hat unterdessen immer weniger Unterstützung. Der Krieg in Afghanistan wurde durch die Koalitionskräfte (USA, Frankreich, Grossbritannien) geführt, doch nach dem Ende des Krieges haben sich diese auf einen Krieg im Irak eingelassen, statt ihre Kräfte für den Wiederaufbau Afghanistans einzusetzen. Dadurch wurde ein schneller Wiederaufbau ausgebremst.
+
+Nun sind aber die Bevölkerungen der Koalitionsstaaten unzufrieden damit, dass nach bald 15 Jahren immer noch Militär und Sicherheitskräfte in Afghanistan im Einsatz sind und wollen die Einmischung dort beendet sehen. Leider geschieht dies dann zu einem Zeitpunkt, zu dem der Wiederaufbau noch nicht sehr weit vorangeschritten ist und die Regierung Afghanistans noch kaum über Ressourcen verfügt, um sich dem Problem der Erstarkenden Taliban anzunehmen[<sup>1</sup>](#pazifismusargument).
+
+In der Folge herrscht vor Allem im Süden des Landes immer noch eine Art Bürgerkrieg. Immer häufiger hat dies jedoch [auch Auswirkungen auf den Norden](https://de.wikinews.org/wiki/Afghanistan:_17_Besucher_einer_Feier_hingerichtet), wo es immer wieder zu Anschlägen religiöser Extremisten kommt.
+
 Irak
 ----
 
@@ -44,3 +55,10 @@ Kosovo, Mazedonien, Albanien
 Im Kosovo, in Mazedonien und in Albanien fliehen vor Allem Roma vor dem [Antiziganismus, welcher dort vorherrscht](http://www.nds-fluerat.org/3963/aktuelles/eu-kommissar-fuer-menschenrechte-kritisiert-antiziganismus-in-europa-und-fordert-abschiebestopp-fuer-roma-aus-dem-kosovo/). Die Roma werden dabei häufig nicht in ihre Heimat zurückgelassen, aus welcher sie [aufgrund des Kosovokrieges](https://de.wikipedia.org/wiki/Kosovokrieg) fliehen mussten.
 
 Häufig werden sie dann in stark bleivergifteten Lagern untergebracht und müssen verschiedene Formen von Misshandlungen und Anfeindungen erdulden. Zudem werden Roma quasi nie als Arbeiter eingestellt (&rarr; Ausgrenzung), wodurch sich die Arbeitslosenquote der Roma in der Region sehr nahe 100% bewegt.
+
+Weiterführende Kommentare
+-------------------------
+
+<p id="pazifismusargument">
+<sup>1</sup>: Selbstverständlich soll dies kein Argument für einen dauerhaften Militäreinsatz der Koalitionskräfte in Afghanistan darstellen. Das Problem liegt vielmehr darin, dass zwar viel Energie in die Zerstörung Afghanistans investiert wurde, doch der Wiederaufbau offenbar keine Priorität hatte und endlos verschleppt wurde. Ob der Wiederaufbau in den nächsten 10 Jahren kraftvoll angegangen würde oder Afghanistan als eine Art Orwell'sche endlose Quelle potentieller Kriegseinsätze dienen würde, lässt sich nicht genau ermitteln. Die Jahre seit 1964 lassen jedoch erahnen, dass es niemandem besonders ernst ist mit dem Frieden für Afghanistan.
+</p>
