@@ -60,8 +60,8 @@ Stimmt es, dass afrikanische Flüchtlinge jetzt Syrisch lernen um bei uns unterz
 Diese Behauptung wurde an verschiedenen Stellen gestreut, bislang konnte jedoch kein Beleg dafür gefunden werden. Es ist allerdings relativ unwahrscheinlich, dass afrikanische Flüchtlinge Syrisch lernen:
 
  * Syrisch-Aramäisch ist [eine alte christliche Sprache und wird heutzutage nicht mehr gesprochen](https://de.wikipedia.org/wiki/Syrische_Sprache). In Syrien spricht man arabisch.
- * Aufgrund der unterschiedlichen klimatischen Bedingungen ist der durchschnittliche Phaenotyp eines Syrers stark unterschiedlich von dem eines typischen Bewohners eines afrikanischen Landes, so dass die meisten Syrer nicht als Afrikaner durchgehen würden.
- * Fliessend Arabisch zu lernen ist schwierig. Ägyptisch ist ein stark vereinfachter Dialekt des Arabischen und Menschen berichten, dass sie [3 Jahre mit Ägyptern zusammen gelebt haben um fliessend arabisch zu lernen](http://islam-forum.info/showthread.php?tid=11218). Der syrische Dialekt dürfte ohne syrische Lehrer noch schwerer zu erlernen sein.
+ * Aufgrund der unterschiedlichen klimatischen Bedingungen ist der durchschnittliche Phaenotyp eines Syrers stark unterschiedlich von dem eines typischen Bewohners eines afrikanischen Landes, so dass die meisten Einwohner afrikanischer Länder nicht als Syrer durchgehen würden.
+ * Fliessend Arabisch zu lernen ist schwierig. Ägyptisch ist ein stark vereinfachter Dialekt des Arabischen und Menschen berichten, dass sie [3 Jahre mit Ägyptern zusammen gelebt haben um fliessend arabisch zu lernen](http://islam-forum.info/showthread.php?tid=11218). Dabei handelt es sich um Menschen mit sprachlicher Begabung und Interesse. Der syrische Dialekt dürfte ohne syrische Lehrer noch schwerer zu erlernen sein.
  * Flüchtlinge aus afrikanischen Ländern haben [genug eigene Asylgründe um aufgenommen zu werden](/ursachen.html).
 
 Es gibt sicher noch mehr Gründe, aber selbst wenn irgendjemand irgendwo auf dem afrikanischen Kontinent Arabisch mit syrischem Dialekt lernen sollte, wäre das vermutlich eher ein Einzelfall.
