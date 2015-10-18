@@ -29,7 +29,7 @@ Wir in Europa hören vor Allem von den Flüchtlingen, welche bis zu uns vorgedru
  * Kurdistan: 250'000,
  * Ägypten: 130'000
 
-Nach Deutschland beispielsweise sind hingegen bislang erst [ca. 70'000 syrische Flüchtlinge geflohen](http://www.lpb-bw.de/fluechtlingsproblematik.html). Bei den Flüchtlingen aus anderen Krisengebieten sieht es ähnlich aus.
+Nach Deutschland beispielsweise sind hingegen bislang erst [ca. 70'000 syrische Flüchtlinge geflohen](http://www.lpb-bw.de/fluechtlingsproblematik.html). Bei den Flüchtlingen aus anderen Krisengebieten sieht es ähnlich aus. Global sind derzeit ca. 60 Millionen Menschen auf der Flucht; es wird erwartet, dass davon ca. 1 Million in der Europäischen Union Zuflucht finden werden.
 
 Dabei sollte man noch bedenken, dass einige Flüchtlinge in verschiedenen Ländern verfolgt werden (siehe [Fluchtursachen](/ursachen.html)) und daher auch in den Nachbarländern ihres Herkunftslandes nicht sicher sind. Dazu kommt, dass einige Länder wie z.B. die Türkei den Flüchtlingen nicht zureichend helfen um deren Überleben abzusichern, so dass diese weiter ziehen müssen, in der Hoffnung, irgendwo einen Ort zu finden, an dem sie endlich sicher sind.
 
