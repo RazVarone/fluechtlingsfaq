@@ -1,6 +1,6 @@
 Fluchtursachen
 
-Die Ursachen für die Flucht sind leider nicht besonders vielfältig. In den meisten Fällen herrscht oder herrschte in den Ländern der Flüchtlinge Krieg. Selten handelt es sich auch um unterdrückte Bevölkerungsgruppen. Im Folgenden eine Analyse der Fluchtursachen nach Land:
+Die Ursachen für die Flucht sind leider nicht besonders vielfältig. In den meisten Fällen herrscht oder herrschte in den Ländern der Flüchtlinge Krieg. Selten handelt es sich auch um unterdrückte Bevölkerungsgruppen. Im Folgenden eine Analyse der Fluchtursachen nach Land für [die Länder, aus denen die meisten Flüchtlinge aufgenommen werden](http://www.bamf.de/SharedDocs/Anlagen/DE/Publikationen/Flyer/flyer-schluesselzahlen-asyl-halbjahr-2015.pdf?__blob=publicationFile):
 
 Syrien
 ------
