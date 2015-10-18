@@ -27,5 +27,5 @@ Weiterhin gibt es einige Organisationen, welche sich für das Wohl von Flüchtli
 
 Für technisch versierte gibt es noch Projekte, welche sich auf ungewöhnliche Weise für Flüchtlinge einsetzen, z.B.
 
- * Diverse Freifunk-Projekte bieten den Flüchtlingen einen kostenlosen Internetzugang. [Warum das wichtig ist…](/smartphone.html)
- * In einigen Städten werden Internetcafés für Flüchtlinge angeboten, die über kein Smartphone verfügen. [Warum das wichtig ist…](/smartphone.html)
+ * Diverse Freifunk-Projekte bieten den Flüchtlingen einen kostenlosen Internetzugang. [Warum das wichtig ist…](/smartphone-internet.html)
+ * In einigen Städten werden Internetcafés für Flüchtlinge angeboten, die über kein Smartphone verfügen. [Warum das wichtig ist…](/smartphone-internet.html)
