@@ -33,6 +33,33 @@ Nach Deutschland beispielsweise sind hingegen bislang erst [ca. 70'000 syrische 
 
 Dabei sollte man noch bedenken, dass einige Flüchtlinge in verschiedenen Ländern verfolgt werden (siehe [Fluchtursachen](/ursachen.html)) und daher auch in den Nachbarländern ihres Herkunftslandes nicht sicher sind. Dazu kommt, dass einige Länder wie z.B. die Türkei den Flüchtlingen nicht zureichend helfen um deren Überleben abzusichern, so dass diese weiter ziehen müssen, in der Hoffnung, irgendwo einen Ort zu finden, an dem sie endlich sicher sind.
 
+Warum haben die Flüchtlinge alle Smartphones?
+---------------------------------------------
+
+In Europa befinden wir uns in einer sehr privilegierten Situation: wir können alles, was wir zum Leben brauchen, im Umkreis von ein paar Kilometern von unserem Haus finden. Wir haben einen Internetanschluss zuhause und können Onlinebanking mit dem Laptop betreiben und mit der Geldkarte im Supermarkt unser Essen bezahlen. Wir haben ein Postamt und eine Bankfiliale in Laufreichweite.
+
+Für einen sehr grossen Teil der Welt sieht die Realität sehr anders aus. In manchen Regionen der Welt gibt es nur einen Weg, zu kommunizieren, sein Geld zu verwalten, Handel zu treiben und einzukaufen: [das mobile Internet](http://businesstech.co.za/news/mobile/24055/mobile-internet-trends-in-emerging-markets/). Einst als Luxusgut für Touristen aus den Industrienationen eingerichtet hat das Internet nun, wenn auch mehr schlecht als recht, die meisten Winkel des Planeten erreicht. Das haben die Mobilfunkfirmen auch entdeckt und sprechen von der ehemaligen «Dritten Welt» nun als «Emerging Markets». Die Verbindungen sind oft sehr schlecht, langsam und fehleranfällig, aber sie bieten den Menschen [die Chance, die Nachteile des Lebens fernab der zivilisatorischen Bequemlichkeiten zu meistern](http://www.spiegel.de/netzwelt/gadgets/smartphones-deutschland-verschlaeft-die-revolution-kolumne-a-1051044.html).
+
+Und da Laptops gross und teuer sind, geringe Akkulaufzeiten haben und eigentlich nur in Regionen mit idealen Umweltbedingungen funktionieren, haben sich Smartphones als Mittel der Wahl durchgesetzt.
+
+Zudem erhält man in den «Emerging Markets» häufig nicht die Topmodelle, sondern günstigere, leistungsreduzierte Versionen, die z.B. nicht über Sendeeinheiten verfügen, welche moderne 4G-Netze nutzen können. Darüber ärgern sich dann häufig Europäer, die dachten, dass sie beim Kauf ihres neuen iPhones in Bangkok einen Schnäppchen gemacht haben.
+
+Mit anderen Worten: für Menschen, die nicht in Industrienationen leben, sind Smartphones überlebensnotwendig. [Auf der Flucht umso mehr](https://www.wired.de/collection/latest/ohne-smartphones-hatten-fluchtlinge-kaum-eine-chance-sagt-der-migrationsforscher).
+
+Wozu brauchen denn Flüchtlinge kostenloses Internet/Freifunk?
+-------------------------------------------------------------
+
+Wie bereits oben geklärt sind Smartphones für Flüchtlinge ein sehr wichtiges Werkzeug, sowohl auf der Flucht als auch davor im Alltag. Nun ist es so, dass sich die Flüchtlinge [aus verschiedenen Gründen nicht unbedingt selbst mit mobilem Internet versorgen können](https://netzpolitik.org/2015/kein-anschluss-unter-diesem-fluechtling-markierung-von-rufnummern/). Es ist aber wichtig und verständlich, in Kontakt mit Verwandten und Bekannten aus der ehemaligen Heimat zu bleiben oder mit solchen, die sich auch gerade auf der Flucht befinden. Roamingkosten und Anrufe ins Ausland sind aber sehr teuer bis unbezahlbar. Somit haben sich Chat und Videotelephone als Quasi-Standard für die Kommunikation entwickelt. Diese benötigen nur einen Internetzugang und etwas Bandbreite.
+
+Besonders in Europa ist den Anbietern jedoch Internettelephonie ein Dorn im Auge. Die Netze und Tarife werden so ausgelegt, dass die Nutzung von Mobilfunk für derartige Zwecke quasi unmöglich oder wahnsinnig teuer wird. An dem Punkt hilft ein kostenloses Angebot wie [Freifunk](https://www.freifunk.net/) den Flüchtlingen, mit ihrer Familie und ihren Freunden und Bekannten in Kontakt zu bleiben, zu erfahren, wie es ihnen so geht, und sie zu beruhigen.
+
+Aber wozu brauchen Flüchtlinge dann Internetcafés?
+--------------------------------------------------
+
+Zum einen gibt es Flüchtlinge, die es tatsächlich ohne Smartphone bis nach Europa geschafft haben. Dann gibt es eben noch die Fälle, wo das Smartphone leider den langen und beschwerlichen Weg nach Europa nicht überlebt hat. Zudem nehmen die Schlepper, welche aufgrund der Bedingungen zum Grenzübertritt in die Europäische Union notwendig sind, manchmal den Flüchtlingen die Telephone ab – um sie zu verkaufen und daraus noch mehr Profit zu schlagen, oder um einfach Macht über die Flüchtlinge auszuüben.
+
+Internetcafés helfen dann den Flüchtlingen, die aus solchen oder anderen Gründen kein eigenes Gerät dabei haben, den Kontakt nach hause oder zu anderen Flüchtlingen zu halten.
+
 Wie kann ich diesen Menschen helfen?
 ------------------------------------
 
