@@ -15,6 +15,8 @@ Was speziell in deiner Gemeinde gebraucht wird, sagen dir sicher die lokalen Ans
 
 Die Seite [Wie kann ich helfen?](http://wie-kann-ich-helfen.info/) versucht zudem, Leuten einen einfachen Weg zum Ansprechpartner zu bieten, damit sich jeder so einbringen kann wie er das gerne möchte.
 
+Wer zuhause oder in der WG noch ein Zimmer frei hat, kann es unter [Flüchtlinge Willkommen](http://www.fluechtlinge-willkommen.de/) anmelden. Dort wird das Zimmer an einen freien Flüchtling vermittelt und die Miete über den Flüchtlingsfonds der jeweiligen Verwaltung beglichen.
+
 Organisationen für die Interessen von Flüchtlingen
 --------------------------------------------------
 
