@@ -44,6 +44,25 @@ Nun sind aber die Bevölkerungen der Koalitionsstaaten unzufrieden damit, dass n
 
 In der Folge herrscht vor Allem im Süden des Landes immer noch eine Art Bürgerkrieg. Immer häufiger hat dies jedoch [auch Auswirkungen auf den Norden](https://de.wikinews.org/wiki/Afghanistan:_17_Besucher_einer_Feier_hingerichtet), wo es immer wieder zu Anschlägen religiöser Extremisten kommt.
 
+Pakistan
+--------
+
+Pakistan grenzt an Afghanistan, den Iran und Indien. Dadurch ergeben sich eine ganze Reihe von Konfliktherden, welche die Einwohner Pakistans in die Flucht treiben.
+
+Zuerst einmal gibt es die Region Kaschmir im Grenzgebiet zu Indien. Diese Region ist seit vielen Jahrzehnten stark umkämpft und steht teilweise unter indischer und teilweise unter pakistanischer Verwaltung. Die Grenzen sind mehr oder weniger lose definiert und ändern sich immer wieder, wenn ein neuer Konflikt ausbricht. Die Bewohner Kaschmirs, vor Allem die jüngeren, setzen sich daher und aus vielen anderen Gründen häufig für mehr Autonomie für die Provinz ein. Der Regierung Pakistans ist das nicht recht, so dass es immer wieder [zu Berichten von Inhaftierung und Folter durch den pakistanischen Geheimdienst unter dem Vorwurf der Spionage](http://www.paroli-magazin.at/577/#c3831) kam.
+
+Waziristan, im Deutschen oft als «Stammesgebiet» bezeichnet, ist [seit vielen Jahrzehnten ein stark umkämpftes Gebiet](http://www.faz.net/aktuell/politik/ausland/pakistan-fast-500-tote-bei-kaempfen-in-stammesgebieten-1682176.html). Die Region wird von vielen rivalisierenden Stämmen und bewaffneten Gruppen beherrscht. Die pakistanische Regierung hat dort kaum Einfluss und Polizei und Militär halten sich aus der Region fern. [Die Konflikte greifen dabei häufig auch auf das benachbarte Khyber Pakhtunkhwa über](http://www.unhcr.de/home/artikel/03d1dea91e198e2c1f0442b1d2a30022/neue-kaempfe-in-nord-pakistan-25000-vertriebene.html).
+
+Khyber Pakhtunkhwa und Belutschistan stellen die Grenzregion zu den umkämpften Regionen Afghanistans dar. Durch den Afghanistankrieg wurden die Taliban gezwungen, sich in die benachbarten Regionen Pakistans zurück zu ziehen, welche nicht vom Krieg betroffen waren, in der Hoffnung, dass die Koalitionskräfte keinen Krieg mit zwei Ländern haben wollten.
+
+Dadurch wurden jedoch die Probleme in den Grenzregionen, besonders in Khyber Pakhtunkhwa, verschärft. [Dort ist nun eine fundamentalistische Auslegung des Islams vorherrschend](http://www.paroli-magazin.at/577/#c3812). Wer dagegen Widerstand leistet (z.B. indem er sich dafür einsetzt, dass auch Mädchen zur Schule gehen dürfen), erfährt politische Verfolgung landet häufig sogar auf den [Todstillsten der lokalen Mächte](http://www.paroli-magazin.at/577/#c3814).
+
+Ein weiteres häufiges Problem in Pakistan stellt die Strategie der Taliban dar, [Kämpfer durch Entführung und Indoktrinierung](http://www.paroli-magazin.at/577/#c3851) zu gewinnen. Dabei werden häufig junge Leute unter einem Vorwand in eine Falle gelockt, anschliessend entführt und in Trainingslager gesteckt, wo sie für den Kampf um die Rückeroberung Afghanistans vorbereitet werden. Nebenbei finden auch reguläre Entführungen mit Lösegeldforderungen statt, um kämpfende Gruppen zu finanzieren.
+
+Für die schiitische Minderheit in Pakistan stellen die Mehrheitsverhältnisse eine zusätzliche Bedrohung dar. Während die Schiiten in Gesamtpakistan eine kleine Minderheit darstellen, stellten sie in Khyber Pakhtunkhwa lange die Mehrheit. Dadurch befinden sich die Schiiten dort [in einem andauernden Konflikt mit der sunnitischen Mehrheit](http://www.paroli-magazin.at/577/#c3827) des Landes. Seit dem Krieg in Afghanistan werden sie nun jedoch auch von den Taliban bekämpft.
+
+Die Region Punjab ist als einzige in Pakistan relativ friedlich und unumkämpft. Dennoch bietet sie keine Sicherheit vor den Entführungen der Taliban oder des pakistanischen Geheimdienstes. Sie ist lediglich ein sicherer Rückzugsort für all diejenigen, welche sowieso nicht in Gefahr waren, doch auch in Punjab fanden bereits Rekrutierungsentführungen der Taliban statt.
+
 Irak
 ----
 
