@@ -73,6 +73,17 @@ Es lässt sich zwar nicht ausschliessen, dass der eine oder andere Flüchtling D
 
 Es liegt somit nahe, dass diese Gerüchte von Leuten in die Welt gestreut werden, welche die Absicht verfolgen, die Unterstützung der Bevölkerung für diese Menschen in Not zu untergraben.
 
+Finden Vergewaltigungen durch die Flüchtlinge statt?
+----------------------------------------------------
+
+An vielen Orten liest man derzeit von Vorwürfen, die Flüchtlingsunterkunft in der Bayernkaserne in München sei ein Ort, an welchem täglich Vergewaltigungen statt fänden.
+
+Gemäss einer [Stellungnahme der Sozialreferentin der Stadt München](http://www.muenchen.de/rathaus/dms/Home/Stadtinfos/Presse-Service/Rathaus-Umschau-2015/Halbjahr2/125/Rathaus%20Umschau%20125%20_%202015.pdf) (Seite 18) hervor geht, sind diese Vorwürfe jedoch aus der Luft gegriffen:
+
+> Es gibt keine belegbaren Vorfälle von Übergriffen auf Frauen in Münchner Flüchtlingsunterkünften.
+
+Ungeachtet dieser Tatsache ist es natürlich sehr wichtig, die Unterbringungssituation der Flüchtlinge massiv zu verbessern um potentielle soziale Probleme zu entschärfen. Zudem ist es wichtig, diesen traumatisierten Menschen, welche ihre Existenz verloren haben und sich nun mitten in einer ungewissen Zukunft befinden, all die psychologische Hilfe zur Seite zu stellen, die wir bieten können.
+
 Wie kann ich diesen Menschen helfen?
 ------------------------------------
 
