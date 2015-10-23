@@ -66,6 +66,13 @@ Diese Behauptung wurde an verschiedenen Stellen gestreut, bislang konnte jedoch 
 
 Es gibt sicher noch mehr Gründe, aber selbst wenn irgendjemand irgendwo auf dem afrikanischen Kontinent Arabisch mit syrischem Dialekt lernen sollte, wäre das vermutlich eher ein Einzelfall.
 
+Stimmt es, dass die Flüchtlinge die ganzen Supermärkte leer klauen?
+-------------------------------------------------------------------
+
+Es lässt sich zwar nicht ausschliessen, dass der eine oder andere Flüchtling Diebstahl begeht, aber bisher konnte noch keiner der Diebstahlvorwürfe bestätigt werden. Im Gegenteil zeigen sich die Supermärkte, welche in den Berichten erwähnt werden, [üblicherweise erstaunt über die Vorwürfe](http://www.moz.de/artikel-ansicht/dg/0/1/1383704) und wissen nichts von angeblichen Diebstählen.
+
+Es liegt somit nahe, dass diese Gerüchte von Leuten in die Welt gestreut werden, welche die Absicht verfolgen, die Unterstützung der Bevölkerung für diese Menschen in Not zu untergraben.
+
 Wie kann ich diesen Menschen helfen?
 ------------------------------------
 
