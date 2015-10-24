@@ -82,6 +82,8 @@ Gemäss einer [Stellungnahme der Sozialreferentin der Stadt München](http://www
 
 > Es gibt keine belegbaren Vorfälle von Übergriffen auf Frauen in Münchner Flüchtlingsunterkünften.
 
+Im Gegenteil sind indessen sogar [Vorfälle bekannt geworden, in denen eine derartige Straftat sogar frei erfunden wurde](http://www.abendzeitung-muenchen.de/inhalt.fluechtlinge-zu-unrecht-im-gefaengnis-holzkirchen-versuchte-vergwaltigung-war-erfunden.4f55161a-2aa2-4a59-8b87-9c9e3b9478c0.html) um Flüchtlinge bewusst zu diskreditieren.
+
 Ungeachtet dieser Tatsache ist es natürlich sehr wichtig, die Unterbringungssituation der Flüchtlinge massiv zu verbessern um potentielle soziale Probleme zu entschärfen. Zudem ist es wichtig, diesen traumatisierten Menschen, welche ihre Existenz verloren haben und sich nun mitten in einer ungewissen Zukunft befinden, all die psychologische Hilfe zur Seite zu stellen, die wir bieten können.
 
 Wie kann ich diesen Menschen helfen?
